@@ -1,0 +1,7 @@
+Content Analyzer
+
+Run docker compose to run kafaka broker & elasticsearch
+
+To verify Elasticsearch, open a web browser and navigate to http://localhost:9200
+
+https://techcrunch.com/  //URL

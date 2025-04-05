@@ -1,0 +1,61 @@
+﻿## Ignore build output
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.userprefs
+
+## Visual Studio Code
+.vscode/
+.history/
+
+## Build results
+*.dll
+*.exe
+*.app
+*.log
+*.cache
+*.pdb
+*.mdb
+
+## Publish directory
+wwwroot/dist/
+publish/
+*.PublishSettings
+App_Data/
+App_Start/
+
+## Configuration files
+*.config.user
+*.config.dev
+*.env
+.env.*
+
+## Rider IDE
+.idea/
+*.sln.iml
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## NuGet packages
+*.nupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# Uncomment if you use the new .NET Core 5.0+/6.0+ SDK-style projects
+# and want to ignore NuGet cache (optional)
+# ~/.nuget/
+
+## DotCover
+.idea/.dotCover
+
+## Temporary files
+.vs/
